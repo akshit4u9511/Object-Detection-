@@ -1,5 +1,5 @@
 🚀 Real-Time Object Detection using MobileNet-SSD
-![Object Detection Demo]()
+![Object Detection Demo](https://github.com/akshit4u9511/Object-Detection-/blob/ce5db8f92e714b10cf0c056d6d7b443b728244b7/demo/bottle%20detect.png)
 
 A real-time object detection system built using Python, OpenCV, and Deep Learning (CNNs). This project uses the MobileNet-SSD (Single Shot Detector) architecture for fast and efficient object detection on live video streams.
 
